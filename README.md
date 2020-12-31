@@ -2,7 +2,7 @@
 注：网页上看到的MarkDown文档中可能看不到图片，可能是因为raw.githubusercontent.com被DNS污染。
 
 ### 解决方法
-1. 访问[IPAddress.com](https://www.ipaddress.com/)这是一个解析域名对应的ip地址的网站）
+1. 访问[IPAddress.com](https://www.ipaddress.com/)（这是一个解析域名对应的ip地址的网站）
 2. 在该网站中间的搜索栏内输入raw.githubusercontent.com，然后点击搜索框右侧的放大镜（搜索）按钮
 ![](README_files/addressweb.jpg)
 
