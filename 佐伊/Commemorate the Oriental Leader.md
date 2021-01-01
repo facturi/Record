@@ -1,5 +1,7 @@
 https://zhuanlan.zhihu.com/p/339653880
 
+若看不到图片，请进入https://facturi.github.io/Record/%E4%BD%90%E4%BC%8A/%E7%BA%AA%E5%BF%B5%E6%AF%9B%E4%B8%BB%E5%B8%AD%20%E5%90%88%E9%9B%861
+
 # 纪念毛主席
 
 第一部分 老同志纪念文章
