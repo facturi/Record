@@ -4,6 +4,8 @@
 
 [佐伊 纪念毛主席合集](https://facturi.github.io/Record/%E4%BD%90%E4%BC%8A/%E7%BA%AA%E5%BF%B5%E6%AF%9B%E4%B8%BB%E5%B8%AD%20%E5%90%88%E9%9B%861)
 
+[【阶层调研第二期】网约配送员调研报告](https://facturi.github.io/Record/%E4%BD%90%E4%BC%8A/%E7%BD%91%E7%BA%A6%E9%85%8D%E9%80%81%E5%91%98%E8%B0%83%E7%A0%94%E6%8A%A5%E5%91%8A)
+
 ---
 
 [我在拼多多的三年](https://facturi.github.io/Record/LeadRoyaL/%E6%88%91%E5%9C%A8%E6%8B%BC%E5%A4%9A%E5%A4%9A%E7%9A%84%E4%B8%89%E5%B9%B4)
