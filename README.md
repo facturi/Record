@@ -9,3 +9,10 @@
 ---
 
 [我在拼多多的三年](https://facturi.github.io/Record/LeadRoyaL/%E6%88%91%E5%9C%A8%E6%8B%BC%E5%A4%9A%E5%A4%9A%E7%9A%84%E4%B8%89%E5%B9%B4)
+
+---
+
+[如何跨越官僚垄断资本主义的陷阱（上）](https://facturi.github.io/Record/%E5%8D%A2%E9%BA%92%E5%85%83/%E5%8D%A2%E9%BA%92%E5%85%83%EF%BC%9A%E5%A6%82%E4%BD%95%E8%B7%A8%E8%B6%8A%E5%AE%98%E5%83%9A%E5%9E%84%E6%96%AD%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E9%99%B7%E9%98%B1%EF%BC%88%E4%B8%8A%EF%BC%89)
+
+[如何跨越官僚垄断资本主义的陷阱（中）](https://facturi.github.io/Record/%E5%8D%A2%E9%BA%92%E5%85%83/%E5%8D%A2%E9%BA%92%E5%85%83%EF%BC%9A%E5%A6%82%E4%BD%95%E8%B7%A8%E8%B6%8A%E5%AE%98%E5%83%9A%E5%9E%84%E6%96%AD%E8%B5%84%E6%9C%AC%E4%B8%BB%E4%B9%89%E7%9A%84%E9%99%B7%E9%98%B1%EF%BC%88%E4%B8%AD%EF%BC%89)
+
